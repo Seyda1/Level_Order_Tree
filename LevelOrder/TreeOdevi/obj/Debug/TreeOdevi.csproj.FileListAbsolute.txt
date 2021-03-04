@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\TreeOdevi\TreeOdevi\bin\Debug\TreeOdevi.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\TreeOdevi\TreeOdevi\bin\Debug\TreeOdevi.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\TreeOdevi\TreeOdevi\bin\Debug\TreeOdevi.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\TreeOdevi\TreeOdevi\obj\Debug\TreeOdevi.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\TreeOdevi\TreeOdevi\obj\Debug\TreeOdevi.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\TreeOdevi\TreeOdevi\obj\Debug\TreeOdevi.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\TreeOdevi\TreeOdevi\obj\Debug\TreeOdevi.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\TreeOdevi\TreeOdevi\obj\Debug\TreeOdevi.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2012\Projects\TreeOdevi\TreeOdevi\obj\Debug\TreeOdevi.csprojAssemblyReference.cache
